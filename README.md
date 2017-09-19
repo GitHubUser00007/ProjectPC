@@ -1,3 +1,3 @@
-# ProjectPC
-PC Project
+# Project X
+Training Project
 Sample Project
